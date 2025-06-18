@@ -1,0 +1,51 @@
+## Ignore Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## Ignore build output
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+## Ignore NuGet packages
+packages/
+*.nupkg
+
+## Ignore .NET Core runtime
+*.runtimeconfig.json
+*.deps.json
+
+## Ignore MSBuild file
+*.msbuild
+
+## Ignore User-specific files
+*.rsuser
+*.sdf
+*.user
+*.userosscache
+*.sln.docstates
+
+## Ignore Visual Studio cache/options directory
+.vs/
+
+## Ignore Visual Studio Code
+.vscode/
+
+## Ignore Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Ignore Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+## Ignore Windows shortcuts
+*.lnk
